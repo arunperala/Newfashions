@@ -102,6 +102,14 @@ nav ul li a{
 }
 
 @media screen and (max-width: 770px){
+    
+.logo{
+    width:80px;
+    position:absolute;
+    top: 5%;
+    right: 5%;
+    opacity: 100%;
+}
     .banner-text h1{
         font-size: 44px;
         color:#FfF;
@@ -115,7 +123,7 @@ nav ul li a{
     }
     .banner-btn a{
         display: block;
-        margin: 20px auto;
+        margin: 40px auto;
     }   
 }
 /*--feature--*/
