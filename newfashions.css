@@ -104,10 +104,8 @@ nav ul li a{
 @media screen and (max-width: 770px){
     
     .logo{
-        width:80px;
-        position:absolute;
-        top: 5%;
-        right: 5%;
+        width:40px;
+        position:relative;
         opacity: 100%;
     }
     .banner-text h1{
@@ -123,7 +121,7 @@ nav ul li a{
     }
     .banner-btn a{
         display: block;
-        margin: 50px auto;
+        margin: 100px auto;
     }   
 }
 /*--feature--*/
