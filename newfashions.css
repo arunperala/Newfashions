@@ -105,7 +105,7 @@ nav ul li a{
     
     .logo{
         width:40px;
-        position:relative;
+        position:absolute;
         opacity: 100%;
     }
     .banner-text h1{
@@ -121,7 +121,7 @@ nav ul li a{
     }
     .banner-btn a{
         display: block;
-        margin: 100px auto;
+        margin: 40px auto;
     }   
 }
 /*--feature--*/
