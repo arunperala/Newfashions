@@ -104,7 +104,7 @@ nav ul li a{
 @media screen and (max-width: 770px){
     
     .logo{
-        width:40px;
+        width:100px;
         position:absolute;
         opacity: 100%;
     }
@@ -121,7 +121,7 @@ nav ul li a{
     }
     .banner-btn a{
         display: block;
-        margin: 40px auto;
+        margin: 50px auto;
     }   
 }
 /*--feature--*/
