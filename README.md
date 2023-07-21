@@ -1,9 +1,8 @@
 # Newfashions Web Store
 
-Welcome to Sherwani Web Store, your go-to destination for elegant and stylish sherwanis! It is user-friendly and attractive site.
-
+Welcome to Sherwani Web Store, your go-to destination for elegant and stylish sherwanis! 
 ## Demo
-[Live Demo](https://arunperala.github.io/Newfashions/)
+Click here for  [Live Demo](https://arunperala.github.io/Newfashions/)
 
 ## Table of Contents
 - [Introduction](#introduction)
