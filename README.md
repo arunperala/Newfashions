@@ -1,4 +1,4 @@
-# Newfacshions Web Store
+# Newfashions Web Store
 
 ![Newfashions Web Store]()
 
