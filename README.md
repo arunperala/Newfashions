@@ -14,7 +14,7 @@ Click here for  [Live Demo](https://arunperala.github.io/Newfashions/)
 - [License](#license)
 
 ## Introduction
-Sherwani Web Store is a modern and user-friendly web application designed to provide a seamless shopping experience for customers looking to buy traditional sherwanis online. Our platform offers a wide range of high-quality sherwanis, catering to various occasions and tastes.
+Newfashions.in is a modern and user-friendly web application designed to provide a seamless shopping experience for customers looking to buy traditional sherwanis online. Our platform offers a wide range of high-quality sherwanis, catering to various occasions and tastes.
 
 ## Features
 - Browse through an extensive collection of sherwanis.
