@@ -2,7 +2,7 @@
 
 Welcome to Newfashions.in, your go-to destination for elegant and stylish sherwanis! 
 ## Demo
-Click here for  [Live Demo](https://arunperala.github.io/Newfashions/)
+🛍️ Click here for [Live Demo](https://arunperala.github.io/Newfashions/) 
 
 ## Table of Contents
 - [Introduction](#introduction)
